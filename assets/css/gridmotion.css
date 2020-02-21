@@ -31,13 +31,15 @@
 .grid__item--c1,
 .grid__item--c1:hover,
 .grid__item--c1:focus {
-	color: #52649e;
+/*	color: #52649e;*/
+	color: #f7f295;
 }
 
 .grid__item--c2,
 .grid__item--c2:hover,
 .grid__item--c2:focus {
-	color: #ee7074;
+/*	color: #ee7074;*/
+	color: #f7f295;
 }
 
 .grid__item--c3,

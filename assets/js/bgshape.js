@@ -151,7 +151,8 @@
 			tx: 0,
 			ty: 100,
 			fill: {
-				color: '#956755',
+				/*color: '#956755',*/
+				color: '#1D1D1D',
 				duration: 500,
 				easing: 'linear'
 			},
